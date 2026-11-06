@@ -43,10 +43,10 @@ main.body{margin-top:50px}
 .heading,.front{text-align:left;position:relative;z-index:1}
 .heading .img{padding:30px 30px 30px 10px;max-width:30%}
 .heading .img img{width:200px}
-.heading span.tag{padding-right:15px}
+.heading span.tag{padding-left:10px;padding-right:10px}
 .heading ul{padding-bottom:0px}
-.publication{padding-top:0px;padding-bottom:20px}
-.publication .img{max-width:300px;padding-right:0px;padding-top:5px}
+.publication{padding-top:20px;padding-bottom:20px}
+.publication .img{max-width:170px;padding-right:0px;padding-top:5px}
 .publication .text{max-width:650px;text-align:left;vertical-align:top}
 .authors{font-size:100%;color:#6e6e6e}
 span.venue,span.highlight,
